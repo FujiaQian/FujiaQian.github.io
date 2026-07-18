@@ -9,16 +9,17 @@ A five-stage pipelined RISC-V processor implemented from scratch in SystemVerilo
 
 Implemented the processor microarchitecture and hardware memory management subsystem, including:
 
-- Five-stage pipeline with hazard detection, forwarding, stalling, and pipeline flushing
-- RV32I instruction set and exception/trap handling
+- Five-stage pipeline with hazard detection, data forwarding, stalling, pipeline flushing, and branch prediction
+- RV32I instruction set with exception/trap handling and control-flow management
+- Branch prediction subsystem with BTB and dynamic branch history tracking to reduce control hazards
 - Cache subsystem and memory access control
 - Virtual memory support with paging, MMU, and TLB
 
-Focused on processor microarchitecture, memory hierarchy, and hardware-software interfaces.
+Focused on processor microarchitecture, branch prediction, memory hierarchy, and hardware-software interfaces.
 
-**Keywords:** SystemVerilog · FPGA · RISC-V · Computer Architecture · Virtual Memory
+**Keywords:** SystemVerilog · FPGA · RISC-V · Branch Prediction · Computer Architecture · Virtual Memory
 
-[More Details →](projects/RISC-V-CPU)
+**[More Details →](projects/RISC-V-CPU)**
 
 ---
 

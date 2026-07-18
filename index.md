@@ -3,6 +3,8 @@ layout: page
 title: Projects
 ---
 
+Note: Source code for selected course projects is kept private in accordance with course policies. Full access is available upon request.
+
 ## RISC-V CPU on FPGA
 
 A five-stage pipelined RISC-V processor implemented from scratch in SystemVerilog and deployed on FPGA.

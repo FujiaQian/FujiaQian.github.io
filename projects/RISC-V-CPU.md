@@ -1,6 +1,9 @@
-# RISC-V CPU on FPGA
+---
+layout: page
+title: RISC-V-CPU
+---
 
-[link to my work](https://github.com/FujiaQian/RISC-V-CPU)
+[GitHub Repository](https://github.com/FujiaQian/RISC-V-CPU)
 
 ## Overview
 

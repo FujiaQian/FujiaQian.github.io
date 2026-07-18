@@ -1,4 +1,7 @@
-# Fujia Qian's Projects
+---
+layout: page
+title: Projects
+---
 
 ## RISC-V CPU on FPGA
 

@@ -1,6 +1,9 @@
-# BusTub
+---
+layout: page
+title: Bustub
+---
 
-[link to my work](https://github.com/FujiaQian/bustub)
+[GitHub Repository](https://github.com/FujiaQian/bustub)
 
 ## Overview
 

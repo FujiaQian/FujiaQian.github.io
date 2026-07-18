@@ -1,6 +1,9 @@
-# rCore
+---
+layout: page
+title: rCore
+---
 
-[link to my work](https://github.com/FujiaQian/rCore)
+[GitHub Repository](https://github.com/FujiaQian/rCore)
 
 ## Overview
 

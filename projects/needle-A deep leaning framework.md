@@ -1,6 +1,9 @@
-# Needle - A Deep Learning Framework
+---
+layout: page
+title: Needle - A Deep Learning Framework
+---
 
-[link to my work](https://github.com/FujiaQian/DLSys_needle)
+[GitHub Repository](https://github.com/FujiaQian/DLSys_needle)
 
 ## Overview
 

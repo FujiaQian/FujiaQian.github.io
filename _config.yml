@@ -3,10 +3,15 @@ description: Systems Portfolio
 
 theme: minima
 
-markdown: kramdown
-
 plugins:
   - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      sitemap: false
 
 header_pages:
   - index.md

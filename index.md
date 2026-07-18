@@ -15,7 +15,7 @@ Focused on processor microarchitecture, memory hierarchy, and hardware-software 
 
 **Keywords:** SystemVerilog · FPGA · RISC-V · Computer Architecture · Virtual Memory
 
-[More Details →](projects/riscv-cpu.md)
+[More Details →](projects/riscv-cpu)
 
 ---
 
@@ -36,7 +36,7 @@ Focused on operating system internals, virtual memory, concurrency, and kernel r
 
 **Keywords:** Rust · Operating Systems · RISC-V · Concurrency · Virtual Memory
 
-[More Details →](projects/rcore.md)
+[More Details →](projects/rcore)
 
 ---
 
@@ -56,7 +56,7 @@ Focused on storage engine design, concurrent indexing, query execution, and data
 
 **Keywords:** C++17 · Database Internals · Storage Engine · Query Processing · Concurrency
 
-[More Details →](projects/bustub.md)
+[More Details →](projects/bustub)
 
 ---
 
@@ -76,4 +76,4 @@ Focused on tensor runtime design, automatic differentiation, and GPU acceleratio
 
 **Keywords:** Python · CUDA · Deep Learning Systems · Tensor Runtime · GPU Computing
 
-[More Details →](projects/needle.md)
+[More Details →](projects/needle)

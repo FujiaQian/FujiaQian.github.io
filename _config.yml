@@ -1,0 +1,14 @@
+title: Fujia Qian
+description: Systems Portfolio
+
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - index.md
+
+show_downloads: false
